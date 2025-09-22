@@ -12,11 +12,11 @@ me some errors for a while.
 All other code is the same.  
 Examples of different output and proof the artificat is built on GCP below:  
 
-Streamlit output example 1:    
+**Streamlit output example 1:**    
 ![Should be example of Streamlit app](images/exp1.png)  
 
-Streamlit output example 2:    
+**Streamlit output example 2:**    
 ![Should be example of Streamlit app](images/exp2.png) 
 
-Artifact in GCP   
+**Artifact in GCP:**   
 ![GCP](images/exp3.png)  
